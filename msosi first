@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Msosi First</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><img src="images/Tatlı.svg" alt="Description of the image">
+                </a>
+            </div>
+            <div class="menu-toggle">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-menu-item"><a href="index.html">Home</a></li>
+                <li class="nav-menu-item"><a href="about.html">About</a></li>
+                <li class="nav-menu-item"><a href="menu.html">Menu</a></li>
+                <li class="nav-menu-item"><a href="contact.html">Contact Us</a></li>
+            </ul>
+            <ul class="nav-menu"> </ul>
+                
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+    
+    <!-- Hero Section -->
+        <section class="hero">
+            <h1>Welcome!</h1>
+            <p>Delicious Meals Made with Love</p>
+            <a href="menu.html" class="btn">View Menu</a>
+
+            <div class="image-box">
+                <img src="images/burger and drink.jpg" alt="Burgers">
+                <img src="images/salad.jpg" alt="Salads">
+                <img src="/images/short drinks.jpg" alt="Drinks">
+                <img src="images/border cake.jpg" alt="Desserts">
+            </div>
+            
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2023 Msosi First . All rights reserved.</p>
+            <ul class="social-icons">
+                <li><a href="#"><img src="images/Facebook.svg" alt="Facebook"></a></li>
+                <li><a href="#"><img src="images/instagram.svg" alt="Instagram"></a></li>
+                <li><a href="#"><img src="images/twitter.svg" alt="Twitter"></a></li>
+                <li><a href="#"><img src="images/whatsapp.svg" alt="Whatsapp"></a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+ 
